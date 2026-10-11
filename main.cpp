@@ -1,4 +1,4 @@
 #include <iostream>
 void printMessage() {
-    std::cout << "Initial message" << std::endl;
+    std::cout << "Messsage from Studentn A" << std::endl;
 }
